@@ -35,7 +35,7 @@ export default function App() {
   const santaData = {
     name: 'SantaData',
     image: require('./assets/christmas gift.jpg'),
-    type: 'Water',
+    type: 'Flower',
     hp: 44,
     moves: ['Quick Attack', 'Thunderbolt', 'Tail whip', 'Grow'],
     weakness: ['Ground'],
